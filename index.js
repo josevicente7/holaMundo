@@ -5,7 +5,7 @@ var express = require('express');
 var App = express();
 
 // Definimos algunas variables que usaremos en las distintas funciones
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 8080;
 var options = {
   root: __dirname
 };

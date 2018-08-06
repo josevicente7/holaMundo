@@ -1,0 +1,21 @@
+{
+  "name": "HEROKUFACIL",
+  "version": "1.0.0",
+  "description": "Example Node App for a post to \"Node for Begginers\" collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  
+  "keywords": [
+    "node",
+    "heroku",
+    "post"
+  ],
+  "author": "JOSE VICENTE",
+  "license": "ISC"
+  
+}
